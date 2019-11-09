@@ -1,0 +1,16 @@
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\MovieTournament.Api.deps.json
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\MovieTournament.Api.runtimeconfig.json
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\MovieTournament.Api.runtimeconfig.dev.json
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\MovieTournament.Api.dll
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\bin\Debug\netcoreapp2.1\MovieTournament.Api.pdb
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.RazorAssemblyInfo.cache
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.RazorAssemblyInfo.cs
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.AssemblyInfo.cs
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.RazorTargetAssemblyInfo.cache
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.dll
+C:\Users\bruno\Documents\CopaFilmes-master (2)\CopaFilmes-master\MovieTournament.Api\MovieTournament.Api\obj\Debug\netcoreapp2.1\MovieTournament.Api.pdb
